@@ -1,1 +1,37 @@
-# 3.html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>원묵고 몽땅프로젝트</project></title>
+</head>
+<body>
+ <h1>제작자: 투성 </h1>
+ <a href="https://hoc23.ebssw.kr/mypage/userlrn/userLrnView.do?atnlcNo=615966&stepSn=168408&lctreSn=6155933&onlineClassYn=Y" target="_blank">물리 과제로 가기</a>
+
+ <<ul> <<li> <a href="https://hoc23.ebssw.kr/mypage/userlrn/userLrnView.do?atnlcNo=615966&stepSn=168408&lctreSn=6155933&onlineClassYn=Y" target="_blank">1주차 과제</a>
+     <a href="https://hoc23.ebssw.kr/mypage/userlrn/userLrnView.do?atnlcNo=615966&stepSn=168408&lctreSn=6155933&onlineClassYn=Y" target="_blank"> 2주차과제</a>
+     </li>
+       </ul>
+ <p> 1번문제 <br>
+   <img src="KakaoTalk_20200831_215629032.jpg" alt="1번문제" width="400" height="200">.                                       </p>
+  <hr> <p> 2번문제 <br> <img src="KakaoTalk_20200831_220053239.jpg" alt="2번문제" width="400" height="200">            </p>
+<hr> <p>3번문제 <br> <img src="KakaoTalk_20200831_220923681.jpg" alt="3번문제" width="400" height="200">  </p>  <<hr>
+ <p> 4번문제  <br> <img src="KakaoTalk_20200831_220923681_01.jpg" alt="4번문제" width="400" height="200">         </p>   <hr>
+ <p> 5번문제  <br> <img src="KakaoTalk_20200831_220923681_02.jpg" alt="5번문제" width="400" height="200">         </p>   <hr>
+ <p> 6번문제  <br> <img src="KakaoTalk_20200831_220923681_03.jpg" alt="6번문제" width="400" height="200">.         </p>   <hr>
+ <p> 7번문제  <br> <img src="KakaoTalk_20200831_220923681_04.jpg" alt="7번문제" width="400" height="200">
+                  <img src="KakaoTalk_20200831_220923681_05.jpg" alt="7번문제" width="400" height="200">       </p>   <hr>
+ <p> 8번문제 <br> <img src="KakaoTalk_20200831_220923681_06.jpg" alt="8번문제" width="400" height="200">      </p>   <hr>
+ <p> 9번문제 <br> <img src="KakaoTalk_20200831_221406395.jpg" alt="9번문제" width="400" height="200">        </p>   <hr>
+ <p> 10번문제 <br> <img src="KakaoTalk_20200831_221406395_01.jpg" alt="10번문제" width="400" height="200">        </p>
+                   <img src="KakaoTalk_20200831_221406395_02.jpg" alt="10번문제" width="400" height="200">       </p>   <hr>
+
+
+
+
+
+
+</body>
+</html>
